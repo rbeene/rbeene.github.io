@@ -1,0 +1,6 @@
+site_name: Ember Training with Echobind
+pages:
+- Home: index.md
+- About: about.md
+theme: readthedocs
+
